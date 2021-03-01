@@ -25,7 +25,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/rsous/PigGame">
-    <img src="dice-6" alt="Logo" width="80" height="80">
+    <img src="dice-6.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Pig Game</h3>
@@ -101,7 +101,7 @@ This project is just to showcase the results of my journey and small achievement
 
 ## Roadmap
 
-See the [open issues](https://github.com/rsous/omnifood/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/rsous/PigGame/issues) for a list of proposed features (and known issues).
 
 <!-- CONTACT -->
 
@@ -109,7 +109,7 @@ See the [open issues](https://github.com/rsous/omnifood/issues) for a list of pr
 
 Rodolfo - [@rsous3](https://twitter.com/rsous3) - rsous@pm.me
 
-Project Link: [https://github.com/rsous/omnifood](https://github.com/rsous/omnifood)
+Project Link: [https://github.com/rsous/PigGame](https://github.com/rsous/PigGame)
 
 <!-- ACKNOWLEDGEMENTS -->
 
