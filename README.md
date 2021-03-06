@@ -107,7 +107,7 @@ See the [open issues](https://github.com/rsous/PigGame/issues) for a list of pro
 
 ## Contact
 
-Rodolfo - [@rsous3](https://twitter.com/rsous3) - rsous@pm.me
+Rodolfo - [@rsovs](https://twitter.com/rsovs) - rsous@pm.me
 
 Project Link: [https://github.com/rsous/PigGame](https://github.com/rsous/PigGame)
 
